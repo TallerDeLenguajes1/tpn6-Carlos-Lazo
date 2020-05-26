@@ -1,5 +1,5 @@
 ﻿using System;
-//Commit Lazo
+
 namespace Punto2
 {
     class Program
