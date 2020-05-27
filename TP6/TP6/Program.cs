@@ -10,6 +10,7 @@ namespace TP6
         {
             int num, aux = 0;
             Console.WriteLine("Ingrese el numero");
+
             num = Convert.ToInt32(Console.ReadLine());
 
             if (num > 0)
