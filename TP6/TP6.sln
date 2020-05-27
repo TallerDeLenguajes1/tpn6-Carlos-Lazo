@@ -5,12 +5,14 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Punto1", "TP6\Punto1.csproj", "{F88CD872-5CAD-438D-8BEA-8EC1BBF04A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto2", "Punto2\Punto2.csproj", "{5F94CBC3-168A-481B-920A-34E3F477715A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Punto2", "Punto2\Punto2.csproj", "{5F94CBC3-168A-481B-920A-34E3F477715A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB40A3B1-A08B-4F30-8B91-1536BF1E3836}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto3", "Punto3\Punto3.csproj", "{10A64C7E-1E0F-45C3-B5FE-00C9CF0217A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{5F94CBC3-168A-481B-920A-34E3F477715A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F94CBC3-168A-481B-920A-34E3F477715A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F94CBC3-168A-481B-920A-34E3F477715A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A64C7E-1E0F-45C3-B5FE-00C9CF0217A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A64C7E-1E0F-45C3-B5FE-00C9CF0217A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A64C7E-1E0F-45C3-B5FE-00C9CF0217A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A64C7E-1E0F-45C3-B5FE-00C9CF0217A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
