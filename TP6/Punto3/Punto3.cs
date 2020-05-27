@@ -2,7 +2,7 @@
 using static System.Math;
 namespace Punto3
 {
-    class Program
+    class Punto3
     {
         static void Main(string[] args)
         {
