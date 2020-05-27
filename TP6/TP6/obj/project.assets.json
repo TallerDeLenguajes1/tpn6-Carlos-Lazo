@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mostrador4\\Documents\\TallerI\\TP6\\TP6-Lazo-Carlos\\TP6\\TP6\\TP6.csproj",
-      "projectName": "TP6",
-      "projectPath": "C:\\Users\\Mostrador4\\Documents\\TallerI\\TP6\\TP6-Lazo-Carlos\\TP6\\TP6\\TP6.csproj",
+      "projectUniqueName": "C:\\Users\\Mostrador4\\Documents\\TallerI\\TP6\\TP6-Lazo-Carlos\\TP6\\TP6\\Punto1.csproj",
+      "projectName": "Punto1",
+      "projectPath": "C:\\Users\\Mostrador4\\Documents\\TallerI\\TP6\\TP6-Lazo-Carlos\\TP6\\TP6\\Punto1.csproj",
       "packagesPath": "C:\\Users\\Mostrador4\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mostrador4\\Documents\\TallerI\\TP6\\TP6-Lazo-Carlos\\TP6\\TP6\\obj\\",
       "projectStyle": "PackageReference",
