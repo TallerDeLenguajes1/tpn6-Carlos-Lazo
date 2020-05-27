@@ -3,7 +3,7 @@
 
 namespace TP6
 {
-    class Program
+    class Punto1
     {   
 
         static void Main(string[] args)
